@@ -1,3 +1,7 @@
+%Hey, I'm sorry. I think I ate too much cake. Maybe it is something better than binary search..... I don't know if you would call it hexa %search, but it is better.
+
+% y is changed, and each time a halving point is defined, the row vector is sliced into half. That reduces the amount of data in memory, which should make it faster, somehow..... or more economical. ????
+
 
 %Initialize two vaariables, a single integer type number 
 %(occupying 3 bytes in memory, plus the value of the integer, which is equalling to the databye of an integer data type)
